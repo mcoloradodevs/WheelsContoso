@@ -1,0 +1,25 @@
+{
+  "EnvironmentVariables": [],
+  "ConnectionReferences": [
+    {
+      "LogicalName": "msus_ApprovalsWheelsContoso",
+      "ConnectionId": "b8778eca82ae447e9536df9fe2fbff10",
+      "ConnectorId": "/providers/Microsoft.PowerApps/apis/shared_approvals"
+    },
+    {
+      "LogicalName": "msus_MicrosoftDataverseWheelsContoso",
+      "ConnectionId": "2f9a5c03-bf0a-4775-9ff4-27cdbf4568c9",
+      "ConnectorId": "/providers/Microsoft.PowerApps/apis/shared_commondataserviceforapps"
+    },
+    {
+      "LogicalName": "msus_sharedgoogle20maps20places20api5f6d64ac8c8909a48731c4df48d8375ad_43f7a",
+      "ConnectionId": "",
+      "ConnectorId": "/providers/Microsoft.PowerApps/apis/shared_google-20maps-20places-20api-5f6d64ac8c8909a487-31c4df48d8375ad0"
+    },
+    {
+      "LogicalName": "msus_sharedteams_4ca06",
+      "ConnectionId": "ad6e1859-5fb6-44a9-b149-497da8789f13",
+      "ConnectorId": "/providers/Microsoft.PowerApps/apis/shared_teams"
+    }
+  ]
+}
